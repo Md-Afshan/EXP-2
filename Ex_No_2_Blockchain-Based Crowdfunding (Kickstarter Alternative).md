@@ -1,4 +1,7 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+### NAME: Muhammad Afshan A
+### REG NO:212223100035
+### DEPARTMENT: CSE(CYBER SECURITY)
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
@@ -63,12 +66,16 @@ contract Crowdfunding {
 # Expected Output:
 Users can contribute ETH to the campaign.
 
+![alt text](<BC EX-2.1.png>)
+
 
 If the goal is met, the creator can withdraw funds.
 
+![alt text](<BC EX-2.2.png>)
 
 If the goal is not met, contributors can claim a refund.
 
+![alt text](<BC EX-2.3.png>)
 
 # High-Level Overview:
 Teaches decentralized fundraising.
@@ -77,3 +84,5 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+Thus created a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met is executed successfully.
+
